@@ -1,7 +1,6 @@
 # Web-Scraping-Project-Amazon-Product-Data
-Here’s your `README.md` file written in proper Markdown:
 
-```markdown
+
 # **Web Scraping Project: Amazon Product Data**
 
 ## **Project Overview**
@@ -45,15 +44,7 @@ This project demonstrates web scraping techniques to extract product data from A
    ```bash
    git clone https://github.com/yourusername/Web-Scraping-Project.git
    cd Web-Scraping-Project
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the script:
-   ```bash
-   python scraper.py
-   ```
+
 
 ---
 
